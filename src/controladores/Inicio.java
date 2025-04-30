@@ -6,6 +6,8 @@ public class Inicio {
 		// TODO Auto-generated method stub
 		
 		//Hola
+		
+		//Otra linea más para la colección
 
 	}
 
